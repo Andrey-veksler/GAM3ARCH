@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg)](https://www.python.org/)
-[![Paper](https://img.shields.io/badge/Paper-Academia.edu-A62423.svg)](https://www.academia.edu/144856381/GAM3ARCH_Ethical_Game_Design_and_Player_Burnout_Analysis_Framework)
+[![Paper]([https://img.shields.io/badge/Paper-Academia.edu-A62423.svg](https://zenodo.org/records/20708078)](https://www.academia.edu/144856381/GAM3ARCH_Ethical_Game_Design_and_Player_Burnout_Analysis_Framework)
 [![Framework](https://img.shields.io/badge/SpinForge-Extension-8E44AD.svg)](https://github.com/veksler-ship/SpinForge)
 
 </div>
