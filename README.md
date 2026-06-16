@@ -73,7 +73,7 @@ P_BASE = [
 ### 2. Run the Simulation
 
 ```bash
-git clone https://github.com/veksler-ship/GAM3ARCH.git
+git clone https://github.com/Andrey-veksler/GAM3ARCH.git
 cd GAM3ARCH
 pip install -r requirements.txt
 python run.py
