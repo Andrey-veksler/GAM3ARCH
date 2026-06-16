@@ -1,4 +1,4 @@
-[GAM3ARCH_README.md](https://github.com/user-attachments/files/28989256/GAM3ARCH_README.md)
+[GAM3ARCH_README (1).md](https://github.com/user-attachments/files/28990988/GAM3ARCH_README.1.md)
 <div align="center">
 
 # GAM3ARCH
@@ -9,7 +9,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg)](https://www.python.org/)
-[![Paper]([https://img.shields.io/badge/Paper-Academia.edu-A62423.svg](https://zenodo.org/records/20708078)](https://www.academia.edu/144856381/GAM3ARCH_Ethical_Game_Design_and_Player_Burnout_Analysis_Framework)
+[![Paper](https://img.shields.io/badge/Paper-Academia.edu-A62423.svg)](https://www.academia.edu/144868913/GAM3ARCH_A_Cognitive_Architecture_for_Ethical_Game_Design_and_Player_Burnout_Analysis)
+[![DOI](https://img.shields.io/badge/DOI-Zenodo-0A71B5.svg)](https://zenodo.org/records/20708078)
 [![Framework](https://img.shields.io/badge/SpinForge-Extension-8E44AD.svg)](https://github.com/veksler-ship/SpinForge)
 
 </div>
@@ -176,7 +177,7 @@ GAM3ARCH provides the cognitive architecture. **[SpinForge](https://github.com/v
 
 ## Publications
 
-- **GAM3ARCH: Ethical Game Design and Player Burnout Analysis Framework** — [Academia.edu](https://www.academia.edu/144856381/GAM3ARCH_Ethical_Game_Design_and_Player_Burnout_Analysis_Framework) | [Zenodo](https://zenodo.org/records/GAM3ARCH)
+- **GAM3ARCH: A Cognitive Architecture for Ethical Game Design and Player Burnout Analysis** — [Academia.edu](https://www.academia.edu/144868913/GAM3ARCH_A_Cognitive_Architecture_for_Ethical_Game_Design_and_Player_Burnout_Analysis) | [Zenodo](https://zenodo.org/records/20708078)
 - **SpinForge: A Cognitive-Oriented Methodology for Designing Esports Events** — [Zenodo](https://zenodo.org/records/SpinForge)
 
 ---
@@ -189,7 +190,7 @@ GAM3ARCH provides the cognitive architecture. **[SpinForge](https://github.com/v
   author={Skrobov, Andrey A.},
   year={2025},
   publisher={NeuroFun Palace},
-  url={https://github.com/veksler-ship/GAM3ARCH}
+  url={https://zenodo.org/records/20708078}
 }
 ```
 
