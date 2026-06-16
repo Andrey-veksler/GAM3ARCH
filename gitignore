@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Simulation outputs
+results/
+*.csv
+!data/survey_results.csv
+!examples/sample_data.csv
+!examples/sample_telemetry.csv
+
+# Bridge extractor output
+B_matrix.json
+
+# Streamlit
+.streamlit/
